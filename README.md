@@ -1,0 +1,1 @@
+Upload all files to your himalimishra.github.io repo root and enable GitHub Pages.
