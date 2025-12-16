@@ -1,0 +1,1 @@
+Upload contents to a GitHub repo and enable Pages from main branch root.
